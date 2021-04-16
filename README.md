@@ -1,4 +1,14 @@
-### Oi, tudo bem? Sou um nerd recruiter infiltrado no Github. 😄
+# Oi, tudo bem? Sou um nerd recruiter infiltrado no Github. 😄 </h1>
+## Procurando um trampo daora? Me chama! 🚀
+<hr /> <a href="https://github.com/Guilhermemaschion" target="_blank">
+
+  <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+
+<a href="https://www.linkedin.com/in/guilhermemaschion/" target="_blank">
+  <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-48-189774.png" width="48px" height="48px">
+</a><br />
+
+
 
 
 <!--
